@@ -1,0 +1,6 @@
+1 portes 3 cases sur 1 case     humain
+2 chasseur 3 cases sur 1 case
+3 sol derobant ?
+4 pylone 4 cases sur 1 cases    kangourou
+5 tunnel 1 case sur 1 cases     souris
+6 sortie du tunnel ... vide
